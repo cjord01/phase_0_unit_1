@@ -25,3 +25,15 @@
   * Explain how you would find out this information, and list the URL of offending image here and how big it is.
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the easiest thing to change to optimize the website?  How many kilobytes of data can be eliminated?
+
+1. Sources
+2. Network
+3. Option + Command + i
+4. http://www.postmachina.com/ 
+	- #0b0f11
+5. I’m unclear on this. I thought that maybe it was an image file but when I look in the HTML file it shows up as text. However, the text doesn’t completely match what’s on the site and when I change the text, the changes don’t show up either. I have no idea. 
+6. 922624182-c482-4a35-8da2-4fbf2f502e94_Large_Large.png 
+7. Go to the network tab and sort by file size. 
+	- http://www.ticketswizard.com/Images/Catalog/92624182-c482-4a35-8da2-4fbf2f502e94_Large_Large.png
+	- 316 KB
+8. Reduce blocking resources - Inline Small CSS. 
