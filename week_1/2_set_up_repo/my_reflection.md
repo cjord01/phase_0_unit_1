@@ -8,3 +8,9 @@
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
 <!-- Add your reflection here. Remove the comment markers -->
+1. On Github - “new repository” -> name repository -> check “public” -> add a “MIT License” -> click “Create repository”
+2. Allows others to freely use your code. 
+3. It’s a bit counter intuitive but it’s a good thing. Without it then progress would be slowed. Computer Science (as with all science) is largely about standing on the shoulders of those who came before you.
+4. Licenses allows you to open up the projects to the world while still getting credit for you work.
+5. My original reflections didn’t save so I’m going back and reentering them now. I don’t remember having any huge struggles in this section. 
+6. None. 
