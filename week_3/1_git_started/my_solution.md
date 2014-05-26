@@ -3,42 +3,43 @@ Define the following commands and describe how they work/what they do.
 
 
 #### add
-<!-- Your defnition here -->
+stages all your changes; tells Git you have made changes. 
 
 #### branch
-<!-- Your defnition here -->
+list, create, or delete branches. 
 
 #### checkout
-<!-- Your defnition here -->
+checkout a branch or paths to the working tree
 
 #### clone
-<!-- Your defnition here -->
+clone a repository into a new directory. 
 
 #### commit
-<!-- Your defnition here -->
+Tells Git you've made changes. It's the equivalent to typing your message into the "summary" section of the git app and hitting the commit button. 
 
 #### fetch
-<!-- Your defnition here -->
+download objects and refs from another repository. 
 
 #### log
-<!-- Your defnition here -->
+a journal that remembers all the changes you've committed in the order you've committed them. 
 
 #### merge
-<!-- Your defnition here -->
+join tow dev histories together. 
 
 #### pull
-<!-- Your defnition here -->
+fetch from and integrate with another repository. 
 
 #### push
-<!-- Your defnition here -->
+pushes the changes to Github (or another remote branch). 
 
 #### reset
-<!-- Your defnition here -->
+reset current HEAD to the specified state. 
 
 #### rm
-<!-- Your defnition here -->
+"Remove". Allows you to remove files. 
 
 #### status
+tells you what's going on in your repository i.e. what changes have been made, have they been committed, etc.
 
 
 ## Release 4: Git Workflow
