@@ -1,15 +1,23 @@
-// I paired [by myself, with:] on this challenge.
+// I paired with Casey Ryan on this challenge.
 
-// __________________________________________
+// Pseudocode
+// 1. Declare secret number as a number
+// 2. Define secret number as 7
+// 3. Declare a string password
+// 4. Define password as "just open the door"
+// 5. Declare a boolean allowedIn
+// 6. Define allowedIn to false
+// 7. Declare an array members
+// 8. Put John in the first position of members array
+// 9. Put Mary in the third position of members array
+// ________________________________________
 // Write your code below.
-
-
-
-
-
-
-
-
+var secretNumber = 7;
+var password = "just open the door"
+var allowedIn = false;
+var members = []
+members[0] = "John"
+members[3] = "Mary"
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
 // 
@@ -18,8 +26,6 @@
 // 
 // 
 // 
-
-
 // __________________________________________
 // Test Code:  Do not alter code below this line.
 
