@@ -1,8 +1,6 @@
 
 // There is a section below where you will write your code.
 // Do not alter this object here.
-
-
 var terah = {
   name: "Terah",
   age: 32,
@@ -11,29 +9,34 @@ var terah = {
   hairColor: "brown",
   eyeColor: "brown"
 }
-
-
-
 // __________________________________________
 // Write your code below.
-
-
-
-
-
-
-
-
+terah.weight = 125;
+var adam = {}
+adam.name = "Adam";
+terah.eyeColor = undefined;
+adam.spouse = terah;
+terah.spouse = adam; 
+terah.children = {};
+terah.children.carson = {};
+terah.children.carson.name = "Carson";
+terah.children.carter = {};
+terah.children.carter.name = "Carter";
+terah.children.colton = {};
+terah.children.colton.name = "Colton";
+adam.children = {};
+adam.children = terah.children
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // 
-// 
-// 
-// 
-// 
-// 
-
-
+// I got through tests 1, 2, 4, & 5 very easily. #3 was a bit of a 
+// challenge. I tinkered with it for a while and eventually figured
+// it out through trial and error. I felt pretty accomplished once
+// I got it. #8 on were also a challenge. More tinkering and eventually
+// got it. A problem I keep coming back to is that I have the right 
+// approach the whole time except I've mis-spelled something and 
+// that's why my code isn't working. This is something I will need to
+// continue to pay better attention to. 
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
 function assert(test, message, test_number) {
