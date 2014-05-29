@@ -119,3 +119,9 @@
 
 // Reflection:
 // Write your reflection here.
+
+// I didn't feel like I got a huge amount out of this challenge. I appreciate that you're trying 
+// to make the process more enjoyable by using a game but it didn't feel like there was much 
+// JS value that could be pulled from it. Also, there was a bit of a learning curve. I spent 
+// more time trying to figure out how to play the game than actually writing code. This isn't
+// the best use of our time. 
