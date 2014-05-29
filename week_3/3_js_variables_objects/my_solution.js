@@ -20,12 +20,13 @@ members[0] = "John"
 members[3] = "Mary"
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
-// 
-// 
-// 
+//
+// This challenge turned out to be much easier than I had expected it to be. 
+// I was surprised that we were able to finish in about 45 minutes. 
+// I guess I have a tendancy to over think things so if I had been working on this alone, 
+// it would have taken a while before it would accure to me that the assignment was as simple
+// as it is. I had tried doing release 0 of the group assignment and was left scratching my
+// head. After completing this, the group assignment made much more sense. 
 // __________________________________________
 // Test Code:  Do not alter code below this line.
 
